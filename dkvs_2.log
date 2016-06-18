@@ -1,0 +1,42 @@
+ballot 1_2
+slot 0 <0> set 1 a 2
+slot 1 <3> set 1 b 4
+ballot 2_2
+slot 2 <6> set 1 a 65
+slot 3 <9> set 1 b 4
+ballot 3_2
+ballot 4_2
+slot 4 <0> set 1 a 2
+slot 5 <3> set 1 b 4
+slot 6 <6> set 1 c 60
+slot 7 <9> set 1 d 3
+ballot 5_2
+slot 8 <0> set 1 a 2
+slot 9 <3> set 1 b 3
+slot 10 <6> set 1 aaa 60
+slot 11 <0> set 1 a 2
+slot 12 <3> set 1 b 3
+slot 13 <6> set 1 aa 60
+ballot 6_2
+slot 14 <0> set 1 a 2
+slot 15 <2> delete 1 a
+slot 16 <5> delete 1 a
+ballot 7_2
+slot 17 <0> set 1 a 2
+slot 18 <3> set 1 b 3
+slot 19 <6> set 3 a 2
+slot 20 <9> set 3 b 4
+slot 21 <12> delete 3 b
+ballot 8_2
+slot 22 <2> set 1 a 2
+slot 23 <5> set 1 b 3
+slot 24 <0> set 1 a 2
+slot 25 <3> set 1 b 3
+ballot 9_2
+slot 26 <1> set 1 c 70
+slot 27 <0> set 1 a 2
+slot 28 <3> set 1 b 4
+ballot 10_2
+ballot 11_2
+slot 29 <0> set 1 a 2
+slot 30 <3> set 1 b 4
